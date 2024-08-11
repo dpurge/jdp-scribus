@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Books">
+		<name>notebook</name>
+		<file>notebook.sla</file>
+		<tnail>notebooktn.png</tnail>
+		<img>notebook.png</img>
+		<psize>A5</psize>
+		<color>Black and white</color>
+		<descr>Learning notes</descr>
+		<usage></usage>
+		<scribus_version>1.6.2</scribus_version>
+		<date>2024-08-12</date>
+		<author></author>
+		<email></email>
+	</template>
+	<template category="Own Templates">
+		<name>notebook</name>
+		<file>notebook.sla</file>
+		<tnail>notebooktn.png</tnail>
+		<img>notebook.png</img>
+		<psize>custom, 420x595</psize>
+		<color></color>
+		<descr></descr>
+		<usage></usage>
+		<scribus_version>1.6.2</scribus_version>
+		<date>2024-08-12</date>
+		<author></author>
+		<email></email>
+	</template>
+</templates>
